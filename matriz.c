@@ -51,14 +51,5 @@ printf("\nR E S P O S T A\n");
 printf("\n%d | %d\n%d | %d", matriz3[0][0], matriz3[0][1], matriz3[1][0], matriz3[1][1]);
 
 printf("\n\n---------------");
-
-// printf("\nX:\n");
-// printf("%d | %d", x1[0], x1[1]);
-// printf("\n%d | %d", x2[0], x2[1]);
-
-// printf("\nY:\n");
-// printf("%d | %d", y1[0], y1[1]);
-// printf("\n%d | %d", y2[0], y2[1]);
-
 }
 
